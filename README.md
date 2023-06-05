@@ -25,7 +25,7 @@
 ### MS PowerBI
 1. The dataset (13 files with 15 tables) were loaded into PowerBI and explored. 
 
-![Dimensional_Model](viz/Dimensional_Model.JPG)
+![Dimensional_Model](viz/Dimensional_Model.jpg)
 
 2. Dimensional model was built as shown. 
     
