@@ -9,10 +9,10 @@
 ## Objectives
 * **Role**: A business analyst in an apparel company.
 * **Goals**: 
-1. To identify a business issue, given a dataset.
-2. To document and to perform data exploration and data extract, transform, and load (ETL) to build a dimensional model
-3. To create interactive data visualizations (charts, reports and dashboards)
-4. To document and to present the business insights and recommendations
+    a. To identify a business issue, given a dataset.
+    b. To document and to perform data exploration and data extract, transform, and load (ETL) to build a dimensional model
+    c. To create interactive data visualizations (charts, reports and dashboards)
+    d. To document and to present the business insights and recommendations
 
 ## Steps
 1. The dataset consisted of 13 files of various formats (MS Excel, CSV and XML).
@@ -91,7 +91,7 @@ Furthermore, we observe that while “Swimwear” had the least sales and profit
 ![Product_Analysis](viz/Product_Analysis.JPG)
 
 2a. Top 10 Products: Similar to category analysis’ scenario, the product with highest sales, “Runner Shoes” only came in at position 5 for its total profit due to its relatively lower margins. “Halter Dress” on the other hand, with the 5 position in sales, raked in the highest profit.<br>
-Some of the top 10 profit products did not even make it to the top 10 sales, such as “DSW Sandals” and “ Samba Soccer Socks”, “Aino Shoes” and “Game Over T-shirt”. This was again due to their high profit margins ranging from 23.41% (“Aino Shoes”) to 40.86% (“DSW Sandals”).<br>
+Some of the top 10 profit products did not even make it to the top 10 sales, such as “DSW Sandals” and “ Samba Soccer Socks”, “Aino Shoes” and “Game Over T-shirt”. This was again due to their high profit margins ranging from 23.41% (“Aino Shoes”) to 40.86% (“DSW Sandals”).<br><br>
 2b. Bottom 10 Products: “US-Master Jeans” were sold at a loss. Perhaps the management wanted to clear this product as soon as possible, hence sold them at a loss.<br>
 There were products that appear in both bottom 10 sales and bottom 10 profit, such as “Finnish Swimsuit”, “Basket Vest”, “Summer Shorts”, “Cap”, “Basket Shoes” and “Finnish Sport Blades”.
 
