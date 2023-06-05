@@ -8,7 +8,7 @@
 
 ## Objectives
 * **Role**: A business analyst in an apparel company.
-* **Goals**: 
+* **Goals**:<br>
     a. To identify a business issue, given a dataset.<br>
     b. To document and to perform data exploration and data extract, transform, and load (ETL) to build a dimensional model<br>
     c. To create interactive data visualizations (charts, reports and dashboards)<br>
