@@ -121,24 +121,24 @@ Although majority of the sales came from Sweden and USA office, France office ha
 In terms of sales person, the highest sales came from Lind (Sweden office) at $4.26M, followed by Carsson (USA office) at $3.15M. On the other hand, the lowest sales came from Cavendish (Sweden office) at $475K, followed by Hendrix (Sweden office) at $671K.
 
 ### Recommendations
-1. From insight 1:
+1. From insight 1:<br>
    a. Look into marketing and promotional efforts for products with higher profit margins, such as “Womens Clothes”, “ Womens Footwear” and “Baby Clothes”.<br>
    b. Promote “Swimwear” during Q2 and Q3 and bring them off the shelves during colder seasons in Q1 and Q4, and free up the space for perhaps, winter sportswear.
 
-2. From insight 2:
+2. From insight 2:<br>
    a. For top 10 products in terms of sales and profit, increase marketing and promotional efforts to boost those products with higher profit margin.<br>
    b. For products that appeared in both bottom 10 sales and bottom 10 profit, consider dropping these products, free up the space, and replace them with other products.
 
-3. From insight 3: 
+3. From insight 3:<br>
    a. To standardize the inventory restock level at 20 units for products in top 10 sales and top 10 sales quantity. A reference line for re-stock level had been added.<br>
    b. Reduce inventory restock level at 10 units for products in bottom 10 sales and bottom 10 sales quantity. A reference line for re-stock level had been added too.
 
-4. From insight 4:
+4. From insight 4:<br>
    a. To put in resources to maintain business relations with these countries.
    
-5. From insight 5:
+5. From insight 5:<br>
    a. Find out the underlying reasons for those customers that have dropped in sales and look for possible ways to improve them.
    
-6. From insight 6:
+6. From insight 6:<br>
    a. Setting up a new office in China (SAR) is an excellent growth driver. The company can tap on this new office to obtain lower cost supplies and generate new sales. Sales of better quality EMEA/USA-made products can       be sold to China while cheaper China-made products can be sold to EMEA and USA.<br>
    b. In order to further boost sales, top sales persons shall be incentivized while the bottom sales persons shall be encouraged to perform better.
