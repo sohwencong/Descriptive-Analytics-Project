@@ -1,9 +1,9 @@
 ## Table of Contents
 1. [Objectives](README.md#objectives)
 2. [Steps](README.md#steps)
-3. [Data Exploration & Dimensional Model Building](README.md#data--building)
-4. [Data Visualizations Building](README.md#data--building)
-5. [Business Insights & Recommendations](README.md#business--recommendations)
+3. [Data Exploration & Dimensional Model Building](README.md#data-exploration--dimensional-model-building)
+4. [Data Visualizations Building](README.md#data-visualizations-building)
+5. [Business Insights & Recommendations](README.md#business-insights--recommendations)
 
 
 ## Objectives
